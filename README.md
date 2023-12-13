@@ -10,7 +10,7 @@
 </div>
 
 <h2 align="center">
-  🛡️ My main project - <a href="https://librepass.medzik.dev">LibrePass</a>
+  🛡️ My main project - <a href="https://librepass.org">LibrePass</a>
 </h2>
 
 <div align="center">

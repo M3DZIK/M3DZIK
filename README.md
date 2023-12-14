@@ -5,9 +5,10 @@
 
 <div align="center">
   <a href="https://medzik.dev">
-    <img src="https://github.com/M3DZIK/M3DZIK/assets/87065584/d511dc2c-f959-4d89-b5d8-ea62c4953aa8" />
+    <img src="https://github.com/M3DZIK/M3DZIK/assets/87065584/68cced8f-03f0-4a36-8d53-8906227adbf8" />
   </a>
 </div>
+
 
 <h2 align="center">
   🛡️ My main project - <a href="https://librepass.org">LibrePass</a>

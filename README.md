@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://medzik.dev">
-    <img src="https://github.com/M3DZIK/M3DZIK/assets/87065584/ba5cc56a-e85b-4997-9c35-25896818f217" />
+    <img src="https://github.com/M3DZIK/M3DZIK/assets/87065584/f28be09f-ed49-4e61-9774-22c9349bc7a8" />
   </a>
 </div>
 
